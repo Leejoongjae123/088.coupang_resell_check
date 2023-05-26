@@ -376,6 +376,7 @@ for i in range(1,11):
     ws.cell(row=3,column=i).value=columnName[i-1]
 
 
+
 ## 이미지 불러오기
 image_path = 'banner.png'
 image = Image(image_path)
